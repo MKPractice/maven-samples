@@ -1,5 +1,5 @@
 package com.example;
-# Just inserting message to test Poll SCM is working fine or not.
+
 import org.junit.Before;
 import org.junit.Test;
 
